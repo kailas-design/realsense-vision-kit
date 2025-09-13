@@ -18,7 +18,7 @@ A modular toolkit for Intel RealSense cameras with computer vision utilities. De
 
 ### Standard Installation (without RealSense hardware dependencies)
 ```bash
-git clone https://github.com/yourusername/RealSense-Vision-Toolkit.git
+git clone https://github.com/Mostafasaad1/RealSense-Vision-Toolkit.git
 cd RealSense-Vision-Toolkit
 pip install -r requirements.txt
 ```
